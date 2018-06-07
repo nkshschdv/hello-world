@@ -1,3 +1,7 @@
+# References
+Extentions that are installed for development
+http://devboosts.com/2017/02/08/top-10-vs-code-extensions/
+
 # HelloWorld
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
